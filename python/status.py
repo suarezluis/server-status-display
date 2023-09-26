@@ -47,7 +47,6 @@ disp.clear()
 is_first_loop = True
 
 logging.info("draw text")
-
 while True:
     try:
         now = datetime.now()
